@@ -4,6 +4,7 @@
 
 ## Passo 1 :  criação da empresa segue as informações de MISSÃO, VALORES, VISÃO da empresa segue documento em pdf aonde consta as informações da empesa. 
  
+Link Para Explicação Do Projeto : https://drive.google.com/file/d/1A-0t47IvmVIO979OtLFMJH6tw6-g513y/view?usp=sharing
 
 ### Pré-requisito:
 
@@ -28,6 +29,7 @@
 ### IVAMBERTO SOARES DE LIMA JÚNIOR  RA : 922208550
 
 ### OBS: Criamos também um banco de dados em SQL mas não esta incluido ainda no projeto, colocamos no documento pdf para conhecimento.  
+
 
 
 
